@@ -24,14 +24,12 @@ They are distributing the font family under the same name of "Bebas Neue". Pleas
 
 * Bebas Neue version 2.000 (2018)  
 From version 2.000, Bebas Neue has became Open source font.  
-In this Git, you can download the font files(.otf and .ttf) and its source file(.glyphs).  
-Of course you can download the source of version1.xxx too.
+In this Git, you can download the font files(.otf and .ttf) and its source file(.glyphs
 
 ## Why
 Why git and open source?  
 It is because there are many derivatives, additional languages, alternate glyphs, other settings from Bebas Neue. In additon, Some people like to customize the font for their particular ues.
 There is a need for common platform to develope and share the result for more usability and quality of the font.
-
 
 
 ## About version 2.000 (and above)
@@ -47,8 +45,6 @@ As mentioned above, Bebas Neue Family (2014) were designed by [Font fabric](http
 
 When you use these fonts together, please be carefull.  
 Please caontact to Font fabric when you need to talk about "Bebas Neue Family (2014)"
-
-
 
 
 ## License
