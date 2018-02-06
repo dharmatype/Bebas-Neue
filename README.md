@@ -63,7 +63,6 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 
 ## Images
 
-
 ![/documents/img/BebasNeue_001.png](/documents/img/BebasNeue_001.png)|![/documents/img/BebasNeue_002.png](/documents/img/BebasNeue_002.png)|![/documents/img/BebasNeue_008.png](/documents/img/BebasNeue_008.png)
 ----|---- |----
 ![/documents/img/BebasNeue_005.png](/documents/img/BebasNeue_005.png)|![/documents/img/BebasNeue_006.png](/documents/img/BebasNeue_006.png)|![/documents/img/BebasNeue_003.png](/documents/img/BebasNeue_003.png)
