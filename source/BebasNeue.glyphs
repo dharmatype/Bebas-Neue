@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+/Hbar
+);
 copyright = "Copyright  (c) 2010 by Ryoichi Tsunekawa. All rights reserved.";
 customParameters = (
 {
@@ -3596,7 +3599,7 @@ unicode = 0048;
 {
 color = 5;
 glyphname = Hbar;
-lastChange = "2018-02-06 00:20:13 +0000";
+lastChange = "2018-02-06 09:25:17 +0000";
 layers = (
 {
 background = {
