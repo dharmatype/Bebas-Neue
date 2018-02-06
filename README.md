@@ -23,7 +23,7 @@ They are distributing the font family under the same name of "Bebas Neue". Pleas
 
 
 * Bebas Neue version 2.000 (2018)  
-From version 2.000, Bebas Neue has became Open source font.  
+From version 2.000, Bebas Neue has become Open source font.  
 In this Git, you can download the font files(.otf and .ttf) and its source file(.glyphs
 
 ## Why
