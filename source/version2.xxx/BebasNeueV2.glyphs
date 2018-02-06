@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"01.1.2.3.4.6.5.7.78.9\0121.1257.154.14.77.11.7.1\012open sourBce font with sil OFL 1.1"
-);
 copyright = "Copyright  (c) 2010 by Ryoichi Tsunekawa. All rights reserved.";
 customParameters = (
 {
