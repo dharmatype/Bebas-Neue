@@ -40,11 +40,11 @@ In v2.000, some glyphs were newly added, some glyphs were improved, some spacing
 
 ## "Bebas Neue Family(2014)" vs "Bebas Neue v2.000(2018)"
 As mentioned above, Bebas Neue Family (2014) were designed by [Font fabric](http://www.fontfabric.com/bebas-neue/) and they made a big contribution to the world use. I appreciate Svet and Fontfabric team very much.  
-"Bebas Neue Family (2014)" was designed based on the "Bebas Neue version 1.xxx(2007)". Therefore, some part of the design and character set, some setting between the Family(2014) and version 2.000(2018) are slightly differnt.  
+"Bebas Neue Family (2014)" was designed based on the "Bebas Neue version 1.xxx(2007)". Therefore, some part of the design, character set, style name and some setting between the Family(2014) and version 2.000(2018) are slightly differnt.  
 
 
 When you use these fonts together, please be carefull.  
-Please caontact to Font fabric when you need to talk about "Bebas Neue Family (2014)"
+Please contact to Font fabric when you need to talk about "Bebas Neue Family (2014)"
 
 
 ## License
