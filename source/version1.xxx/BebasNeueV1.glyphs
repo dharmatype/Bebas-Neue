@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"\U00C6B\U00D0EFGH/OE P\U00DER 38"
-);
 copyright = "Copyright \\(c\\) 2010 by Ryoichi Tsunekawa. All rights reserved.";
 customParameters = (
 {
