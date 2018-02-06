@@ -1,0 +1,52 @@
+FONTLOG for Bebas Neue font.
+
+This file provides detailed information on the Bebas Neue font.
+This information should be distributed along with the Bebas Neue font(s) and any
+derivative works.
+
+
+Basic Font Information
+
+Bebas Neue is a free display font for headline, caption, and titling designed by Ryoichi Tsunekawa.
+To contribute to the project, Please contact to Dharma Type at https://github.com/dharmatype/Bebas-Neue/ or visit http://dharmatype.com
+
+
+
+ChangeLog
+
+6 Mar 2018 (Ryoichi Tsunekawa) Bebas Neue v2.000
+- Open sourced.
+- Fine tuned to almost all glyphs.
+- Add some glyphs.
+- Improve Spacing and Kerning.
+- Change OT features.
+- Change other settings.
+
+
+There are some missing update information before v1.500
+
+17 Jun 2016 (Ryoichi Tsunekawa) Bebas Neue v1.500
+- Add Germandbls.
+
+15 Sep 2014 (Ryoichi Tsunekawa) Bebas Neue v1.400
+- Fix bugs of S and 2.
+
+15 Jul 2010 (Ryoichi Tsunekawa) Bebas Neue v1.000
+- Initial Release.
+
+21 Aug 2005 (Ryoichi Tsunekawa) Bebas v1.0
+- Original of Bebas Neue, Initial Released.
+
+
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (E), web-address (if you have one) (W) and
+description (D). This list is in alphabetical order.
+
+N: Ryoichi Tsunekawa
+E: info@dharmatype.com
+W: http://dharmatype.com
+D: Original designer
