@@ -59,7 +59,7 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 
 ## Images
 
-![/documents/img/BebasNeue_001.png](/documents/img/BebasNeue_001.png)|![/documents/img/BebasNeue_002.png](/documents/img/BebasNeue_002.png)|![/documents/img/BebasNeue_008.png](/documents/img/BebasNeue_008.png)
+![/documentation/img/BebasNeue_001.png](/documentation/img/BebasNeue_001.png)|![/documentation/img/BebasNeue_002.png](/documentation/img/BebasNeue_002.png)|![/documentation/img/BebasNeue_008.png](/documentation/img/BebasNeue_008.png)
 ----|---- |----
-![/documents/img/BebasNeue_005.png](/documents/img/BebasNeue_005.png)|![/documents/img/BebasNeue_006.png](/documents/img/BebasNeue_006.png)|![/documents/img/BebasNeue_003.png](/documents/img/BebasNeue_003.png)
-![/documents/img/BebasNeue_007.png](/documents/img/BebasNeue_007.png)|![/documents/img/BebasNeue_009.png](/documents/img/BebasNeue_009.png)|![/documents/img/BebasNeue_004.png](/documents/img/BebasNeue_004.png)
+![/documentation/img/BebasNeue_005.png](/documentation/img/BebasNeue_005.png)|![/documentation/img/BebasNeue_006.png](/documentation/img/BebasNeue_006.png)|![/documentation/img/BebasNeue_003.png](/documentation/img/BebasNeue_003.png)
+![/documentation/img/BebasNeue_007.png](/documentation/img/BebasNeue_007.png)|![/documentation/img/BebasNeue_009.png](/documentation/img/BebasNeue_009.png)|![/documentation/img/BebasNeue_004.png](/documentation/img/BebasNeue_004.png)
