@@ -1,5 +1,4 @@
-Copyright (c) 2018, Dharma Type (dharmatype.com)
-Bebas Neue Project Author (https://github.com/dharmatype/Bebas-Neue)
+Copyright © 2010 by Dharma Type.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
