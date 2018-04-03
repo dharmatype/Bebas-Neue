@@ -21,6 +21,9 @@ Bebas Neue is being distributed with SIL Open Font License 1.1
 [Font fabric](http://www.fontfabric.com/bebas-neue/) designed additional weights and glyphs.  
 They are distributing the font family under the same name of "Bebas Neue". Please read more information below.  
 
+* Bebas Kai (2014)  
+[Bebas Kai](http://dharmatype.com/post/101249890972/bebas-kai) is one of derivative works based upon Bebas(2005)  
+Bebas Kai is not open-sourced yet.
 
 * Bebas Neue version 2.000 (2018)  
 From version 2.000, Bebas Neue has become Open source font.  
