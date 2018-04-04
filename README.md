@@ -8,7 +8,8 @@ Bebas Neue is a free display font for headline, caption, and titling designed by
 ## History
 
 *  Bebas (2005)  
-[Bebas](https://www.dafont.com/bebas.font) is a free font for the purpose of type design training/practice for myself and to get feedback from the world. Originally released in 2005.
+[Bebas](https://www.dafont.com/bebas.font) is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
+Originally released in 2005. *Development was terminated.*
 
 
 * Bebas Neue version 1.xxx (2010)  
@@ -22,12 +23,13 @@ Bebas Neue is being distributed with SIL Open Font License 1.1
 They are distributing the font family under the same name of "Bebas Neue". Please read more information below.  
 
 * Bebas Kai (2014)  
-[Bebas Kai](http://dharmatype.com/post/101249890972/bebas-kai) is one of derivative works based upon Bebas(2005)  
-Bebas Kai is not open-sourced yet.
+[Bebas Kai](https://github.com/dharmatype/Bebas-Kai) is one of derivative works based upon Bebas(2005)  
+From 2018, Bebas Kai has become open sourced font.  
 
 * Bebas Neue version 2.000 (2018)  
-From version 2.000, Bebas Neue has become Open source font.  
-In this Git, you can download the font files(.otf and .ttf) and its source file(.glyphs
+*This repository.*  
+From version 2.000, Bebas Neue has become open source font.  
+In this repository, you can download the font files(.otf and .ttf) and its source file(.glyphs
 
 ## Why
 Why git and open source?  
@@ -53,7 +55,7 @@ Please contact to Font fabric when you need to talk about "Bebas Neue Family (20
 ## License
 
 Bebas Neue is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
-To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Sometype-Mono/blob/master/OFL.txt)
+To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Bebas-Neue/blob/master/OFL.txt)
 
 ## Authors
 
