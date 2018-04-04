@@ -57,7 +57,6 @@ value = "Add “Scale to UPM 2048” in Instance before Export for TTF, If neces
 date = "2018-02-06 01:43:02 +0000";
 designer = "Ryoichi Tsunekawa";
 designerURL = "http://dharmatype.com";
-disablesNiceNames = 1;
 familyName = "Bebas Neue";
 featurePrefixes = (
 {
