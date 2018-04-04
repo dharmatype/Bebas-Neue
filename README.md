@@ -8,15 +8,13 @@ Bebas Neue is a free display font for headline, caption, and titling designed by
 ## History
 
 *  Bebas (2005)  
-[Bebas](https://www.dafont.com/bebas.font) is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
+Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
-
 
 * Bebas Neue version 1.xxx (2010)  
 Bebas Neue is re-designed from "Bebas" font for the same purpose. First released in 2010.  
 Bebas Neue have same proportion and theory as original "Bebas" font.  
 Bebas Neue is being distributed with SIL Open Font License 1.1   
-
 
 * Bebas Neue Family (2014)  
 [Font fabric](http://www.fontfabric.com/bebas-neue/) designed additional weights and glyphs.  
