@@ -61,3 +61,9 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 ----|---- |----
 ![/documentation/img/BebasNeue_005.png](/documentation/img/BebasNeue_005.png)|![/documentation/img/BebasNeue_006.png](/documentation/img/BebasNeue_006.png)|![/documentation/img/BebasNeue_003.png](/documentation/img/BebasNeue_003.png)
 ![/documentation/img/BebasNeue_007.png](/documentation/img/BebasNeue_007.png)|![/documentation/img/BebasNeue_009.png](/documentation/img/BebasNeue_009.png)|![/documentation/img/BebasNeue_004.png](/documentation/img/BebasNeue_004.png)
+
+
+## Support
+Please support our free font project.
+Our free fonts are free even for commercial use. You can use them without any purchases.
+But we welcome your support for free font project. Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
