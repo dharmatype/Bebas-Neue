@@ -18,7 +18,7 @@ Bebas Neue is re-designed from "Bebas" font for the same purpose. First released
 Bebas Neue have same proportion and theory as original "Bebas" font.  
 
 * [Bebas Neue Family (2014)](http://www.fontfabric.com/bebas-neue/)  
-Font fabric designed additional weights and glyphs.  
+Fontfabric designed additional weights and glyphs.  
 They are distributing the font family under the same name of "Bebas Neue". Please read more information below.  
 
 * [Bebas Kai (2014)](https://github.com/dharmatype/Bebas-Kai)  
@@ -43,7 +43,7 @@ In v2.000, some glyphs were newly added, some glyphs were improved, some spacing
 
 
 ### "Bebas Neue Family(2014)" vs "Bebas Neue v2.000(2018)"
-As mentioned above, Bebas Neue Family (2014) were designed by Font fabric and they made a big contribution to the world use. I appreciate Svet and Fontfabric team very much.  
+As mentioned above, Bebas Neue Family (2014) were designed by Fontfabric and they made a big contribution to the world use. I appreciate Fontfabric team very much.  
 "Bebas Neue Family (2014)" was designed based on the "Bebas Neue version 1.xxx(2007)". Therefore, some part of the design, character set, style name and some setting between the Family(2014) and version 2.000(2018) are slightly different.  
 
 When you use these fonts together, please be carefull.  
