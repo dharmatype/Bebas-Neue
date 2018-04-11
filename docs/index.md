@@ -1,9 +1,9 @@
 # Free font by Dharma Type
-
+---
 ## Short Story
 Bebas Neue is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
-  
-  
+
+
 ## Long Story
 *  [Bebas (2005)](https://github.com/dharmatype/Bebas)  
 Bebas  is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
@@ -66,6 +66,3 @@ But we welcome your support for free font project. Please visit [http://dharmaty
 ----|---- |----
 ![/documentation/img/BebasNeue_005.png](/documentation/img/BebasNeue_005.png)|![/documentation/img/BebasNeue_006.png](/documentation/img/BebasNeue_006.png)|![/documentation/img/BebasNeue_003.png](/documentation/img/BebasNeue_003.png)
 ![/documentation/img/BebasNeue_007.png](/documentation/img/BebasNeue_007.png)|![/documentation/img/BebasNeue_009.png](/documentation/img/BebasNeue_009.png)|![/documentation/img/BebasNeue_004.png](/documentation/img/BebasNeue_004.png)
-
-
-
