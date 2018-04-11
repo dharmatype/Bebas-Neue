@@ -1,7 +1,4 @@
-# Bebas Neue
-
-
-## A dispay font
+## Short Story
 Bebas Neue is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
 
 
