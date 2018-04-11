@@ -11,11 +11,11 @@ Bebas Neue is a free display font licensed under the SIL Open Font license 1.1 d
 ### History
 *  [Bebas (2005)](https://github.com/dharmatype/Bebas)  
 Bebas  is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
-Originally released in 2005. *Development was terminated.*
+Originally released in 2005. * **Development was terminated.** *
 
 * [Bebas Neue version 1.xxx (2010)](https://github.com/dharmatype/Bebas-Neue)  
 Bebas Neue is re-designed from "Bebas" font for the same purpose. First released in 2010.  
-Bebas Neue have same proportion and theory as original "Bebas" font.  
+Bebas Neue have same proportion and theory as original Bebas(2005).
 
 * [Bebas Neue Family (2014)](http://www.fontfabric.com/bebas-neue/)  
 Fontfabric designed additional weights and glyphs.  
