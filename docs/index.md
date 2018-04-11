@@ -2,9 +2,8 @@
 
 ## Short Story
 Bebas Neue is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
-
-
-
+  
+  
 ## Long Story
 *  [Bebas (2005)](https://github.com/dharmatype/Bebas)  
 Bebas  is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
