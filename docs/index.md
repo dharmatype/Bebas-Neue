@@ -6,8 +6,8 @@ Bebas Neue is a free display font for headline, caption, and titling designed by
 
 
 ## History
-*  Bebas (2005)  
-[Bebas](https://github.com/dharmatype/Bebas) is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
+*  [Bebas (2005)](https://github.com/dharmatype/Bebas)  
+Bebas  is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
 
 * Bebas Neue version 1.xxx (2010)  
