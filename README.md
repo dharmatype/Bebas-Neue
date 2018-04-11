@@ -11,7 +11,7 @@ Bebas is a free font for the purpose of type design training/practice for myself
 Originally released in 2005. *Development was terminated.*
 
 * [Bebas Neue version 1.xxx (2010)](https://github.com/dharmatype/Bebas-Neue)  
-Bebas Neue is re-designed from Bebas (2005) font for the same purpose. First released in 2010.  
+Bebas Neue was re-designed from Bebas (2005) font for the same purpose. First released in 2010.  
 Bebas Neue have same proportion and theory as original Bebas (2005) font.  
 
 * [Bebas Neue Family (2014)](http://www.fontfabric.com/bebas-neue/)  
