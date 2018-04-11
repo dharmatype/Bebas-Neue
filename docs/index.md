@@ -66,7 +66,4 @@ But we welcome your support for free font project. Please visit [http://dharmaty
 
 
 ### Images
-![/documentation/img/BebasNeue_001.png](/documentation/img/BebasNeue_001.png)|![/documentation/img/BebasNeue_002.png](/documentation/img/BebasNeue_002.png)|![/documentation/img/BebasNeue_008.png](/documentation/img/BebasNeue_008.png)
-----|---- |----
-![/documentation/img/BebasNeue_005.png](/documentation/img/BebasNeue_005.png)|![/documentation/img/BebasNeue_006.png](/documentation/img/BebasNeue_006.png)|![/documentation/img/BebasNeue_003.png](/documentation/img/BebasNeue_003.png)
-![/documentation/img/BebasNeue_007.png](/documentation/img/BebasNeue_007.png)|![/documentation/img/BebasNeue_009.png](/documentation/img/BebasNeue_009.png)|![/documentation/img/BebasNeue_004.png](/documentation/img/BebasNeue_004.png)
+![/assets/img/BebasNeue_010.png](/assets/img/BebasNeue_010.png)
