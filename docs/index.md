@@ -13,22 +13,22 @@ Bebas Neue is a free display font licensed under the SIL Open Font license 1.1 d
 Bebas  is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
 
-* Bebas Neue version 1.xxx (2010)  
+* [Bebas Neue version 1.xxx (2010)](https://github.com/dharmatype/Bebas-Neue)  
 Bebas Neue is re-designed from "Bebas" font for the same purpose. First released in 2010.  
 Bebas Neue have same proportion and theory as original "Bebas" font.  
 
-* Bebas Neue Family (2014)  
-[Font fabric](http://www.fontfabric.com/bebas-neue/) designed additional weights and glyphs.  
+* [Bebas Neue Family (2014)](http://www.fontfabric.com/bebas-neue/)  
+Font fabric designed additional weights and glyphs.  
 They are distributing the font family under the same name of "Bebas Neue". Please read more information below.  
 
-* Bebas Kai (2014)  
+* [Bebas Kai (2014)](https://github.com/dharmatype/Bebas-Kai)  
 Bebas Kai is one of derivative works based upon Bebas(2005)  
-From 2018, [Bebas Kai has become open sourced font.](https://github.com/dharmatype/Bebas-Kai)  
+From 2018, Bebas Kai has become open sourced font.  
+You can download the font files(.otf and .ttf) and its source file(.glyphs)
 
-* Bebas Neue version 2.000 (2018)  
-*This repository.*  
+* [Bebas Neue version 2.000 (2018)](https://github.com/dharmatype/Bebas-Neue)  
 From version 2.000, Bebas Neue has become open source font.  
-In this repository, you can download the font files(.otf and .ttf) and its source file(.glyphs
+You can download the font files(.otf and .ttf) and its source file(.glyphs)
 
 ### Why
 Why git and open source?  
@@ -43,7 +43,7 @@ In v2.000, some glyphs were newly added, some glyphs were improved, some spacing
 
 
 ### "Bebas Neue Family(2014)" vs "Bebas Neue v2.000(2018)"
-As mentioned above, Bebas Neue Family (2014) were designed by [Font fabric](http://www.fontfabric.com/bebas-neue/) and they made a big contribution to the world use. I appreciate Svet and Fontfabric team very much.  
+As mentioned above, Bebas Neue Family (2014) were designed by Font fabric and they made a big contribution to the world use. I appreciate Svet and Fontfabric team very much.  
 "Bebas Neue Family (2014)" was designed based on the "Bebas Neue version 1.xxx(2007)". Therefore, some part of the design, character set, style name and some setting between the Family(2014) and version 2.000(2018) are slightly different.  
 
 When you use these fonts together, please be carefull.  
