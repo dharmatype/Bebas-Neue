@@ -1,10 +1,11 @@
-# Free font by Dharma Type
+# Bebas Neue
 
 ---
 
 ## Short Story
 Bebas Neue is a free display font licensed under the SIL Open Font license 1.1 designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
 
+---
 
 ## Long Story
 ### History
