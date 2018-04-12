@@ -3,7 +3,7 @@
 ---
 
 ## Short Story
-[Bebas Neue](https://github.com/dharmatype/Bebas-Neue) is a free display font licensed under the SIL Open Font license 1.1 designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
+[Bebas Neue](https://github.com/dharmatype/Bebas-Neue) is a free display font licensed under [the SIL Open Font license 1.1](http://scripts.sil.org/OFL) designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
 
 ---
 
