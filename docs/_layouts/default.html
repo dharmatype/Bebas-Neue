@@ -7,6 +7,7 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
     <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
@@ -23,7 +24,8 @@
 	{% endif %}
 
 	<p>{{ site.description | default: site.github.project_tagline }}</p>
-
+    <p><i class="fab fa-behance"></i></p>
+    
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
