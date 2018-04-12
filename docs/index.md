@@ -3,7 +3,7 @@
 ---
 
 ## Short Story
-Bebas Neue is a free display font licensed under the SIL Open Font license 1.1 designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
+[Bebas Neue](https://github.com/dharmatype/Bebas-Neue) is a free display font licensed under the SIL Open Font license 1.1 designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
 
 ---
 
@@ -30,6 +30,8 @@ You can download the font files(.otf and .ttf) and its source file(.glyphs)
 From version 2.000, Bebas Neue has become open source font.  
 You can download the font files(.otf and .ttf) and its source file(.glyphs)
 
+### Download
+You can download from [https://github.com/dharmatype/Bebas-Neue](https://github.com/dharmatype/Bebas-Neue)  
 
 ### Why
 Why git and open source?  
