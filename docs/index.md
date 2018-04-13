@@ -31,7 +31,8 @@ From version 2.000, Bebas Neue has become open source font.
 You can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)
 
 ### Download
-You can download from [https://github.com/dharmatype/Bebas-Neue](https://github.com/dharmatype/Bebas-Neue)  
+You can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs) from  
+[https://github.com/dharmatype/Bebas-Neue](https://github.com/dharmatype/Bebas-Neue)  
 
 ### Why
 Why git and open source?  
