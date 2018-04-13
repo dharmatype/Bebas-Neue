@@ -27,7 +27,7 @@ From 2018, Bebas Kai has become open sourced font.
 * [Bebas Neue version 2.000 (2018)](https://github.com/dharmatype/Bebas-Neue)  
 *- This repository.*  
 From version 2.000, Bebas Neue has become open source font.  
-In this repository, you can download the font files(.otf and .ttf) and its source file(.glyphs)  
+In this repository, you can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)
 
 ## Why
 Why git and open source?  
