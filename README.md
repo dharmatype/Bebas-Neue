@@ -9,11 +9,17 @@ http://bebasneue.com
 ## History
 *  [Bebas (2005)](https://github.com/dharmatype/Bebas)  
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
-Originally released in 2005. *Development was terminated.*
+Originally released in 2005. *Development was terminated.*  
+Free font.
 
 * [Bebas Neue version 1.xxx (2010)](https://github.com/dharmatype/Bebas-Neue)  
 Bebas Neue was re-designed from Bebas (2005) font for the same purpose. First released in 2010.  
 Bebas Neue have same proportion and theory as original Bebas (2005) font.  
+Free font which is licensed under the SIL Open Font License v1.1.
+
+* [Mocha Mattari (2011)](https://www.myfonts.com/fonts/flat-it/mocha-mattari/)    
+Mocha Mattari  is distressed font designed based on Bebas Neue (2010)  
+Commercial font which is available from [Our partners](http://dharmatype.com/howtobuy) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/mocha-mattari/)  .
 
 * [Bebas Neue Family (2014)](http://www.fontfabric.com/bebas-neue/)  
 Fontfabric designed additional weights and glyphs.  
@@ -23,11 +29,21 @@ Please read more information below.
 * [Bebas Kai (2014)](https://github.com/dharmatype/Bebas-Kai)    
 Bebas Kai is one of derivative works based upon Bebas (2005)  
 From 2018, Bebas Kai has become open sourced font.  
+Free font which is licensed under the SIL Open Font License v1.1.
 
 * [Bebas Neue version 2.000 (2018)](https://github.com/dharmatype/Bebas-Neue)  
 *- This repository.*  
 From version 2.000, Bebas Neue has become open source font.  
-In this repository, you can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)
+In this repository, you can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)  
+Free font which is licensed under the SIL Open Font License v1.1.
+
+* [Bebas Neue SemiRounded (2018)](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/)    
+Bebas Neue SemiRounded  is semi-rounded derivative work based on Bebas Neue (2018)  
+Commercial font which is available from [Our partners](http://dharmatype.com/howtobuy) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/)     .
+
+* [Bebas Neue Rounded (2018)](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/)    
+Bebas Neue Rounded  is rounded derivative work based on Bebas Neue (2018)  
+Commercial font which is available from [Our partners](http://dharmatype.com/howtobuy) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/)    .
 
 ## Why
 Why git and open source?  
