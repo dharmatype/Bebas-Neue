@@ -1,7 +1,7 @@
 # Bebas Neue
 
 
-## A dispay font
+## A display font
 Bebas Neue is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](https://dharmatype.com).   
 http://bebasneue.com
 
