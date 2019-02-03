@@ -81,7 +81,7 @@ Bebas Neue version1.xxx~2.000 are  world wide, the most popular font family with
 Bebas Neue has been used from by big companies to by startup designers for many projects.  
 In spite of the fact that Bebas Neue has only Uppercases, it became very popular font for these 10 years.  
 At the same time, we received many requests for adding lowercases.  
-To be honest, we had been developing whole new Beas Neue with lowercases secretly for long time.  
+To be honest, we had been developing whole new Bebas Neue with lowercases secretly for long time.  
 
 Thinner Uppercase from thin to regular weights were redesigned for Pro.  
 New lowercases were designed to match the Uppercases very carefully.  
@@ -89,7 +89,7 @@ You can access Tabular figures by using OpenType tnum features.
 Almost all European languages are supported by Pro.  
 
 One more big thing is... Bebas Neue Pro has Italics!  
-Please don't use sloped Beas Neue. Pro has proper Italics!  
+Please don't use sloped Bebas Neue. Pro has proper Italics!  
 
 Bebas Neue "Pro" can extend your possibilities.   
 Be the first to use this professional and premium Bebas Neue!   
