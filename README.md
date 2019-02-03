@@ -77,7 +77,7 @@ Please contact to Font fabric when you need to talk about "Bebas Neue Family (20
 Thank you for waiting.
 In 2019, we released Bebas Neue *Pro* with lowercases!  
 
-Beas Neue version1.xxx~2.000 are  world wide, the most popular font family with all caps released in 2010.  
+Bebas Neue version1.xxx~2.000 are  world wide, the most popular font family with all caps released in 2010.  
 Bebas Neue has been used from by big companies to by startup designers for many projects.  
 In spite of the fact that Bebas Neue has only Uppercases, it became very popular font for these 10 years.  
 At the same time, we received many requests for adding lowercases.  
