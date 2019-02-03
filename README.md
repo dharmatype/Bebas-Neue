@@ -93,7 +93,7 @@ Please don't use sloped Bebas Neue. Pro has proper Italics!
 
 Bebas Neue "Pro" can extend your possibilities.   
 Be the first to use this professional and premium Bebas Neue!   
-You can purchase this family from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)  .  
+You can purchase this family from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)  .   
 
 
 ## License
