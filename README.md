@@ -48,7 +48,7 @@ Licensed under the SIL Open Font License v1.1.
 Boycott is distressed font designed based on Bebas(2005).  
 Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/boycott/?refby=dharmatype).  
 
-* [Bebas (2005) — Free font](https://github.com/dharmatype/Bebas)  
+* [Bebas (2005) — Free font](https://www.dafont.com/bebas.font)  
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*  
 
