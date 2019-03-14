@@ -30,8 +30,8 @@ Bebas Kai is one of derivative works based upon Bebas (2005)
 From 2018, Bebas Kai has become open sourced font.  
 Licensed under the SIL Open Font License v1.1.  
 
-* [Bebas Neue Family (2014) — Free font](http://www.fontfabric.com/bebas-neue/)  
-Fontfabric designed additional weights and glyphs.  
+* Bebas Neue Family (2014) — Free font  
+Fontfabric designed additional weights and glyphs which included in this repository.  
 They are distributing the font family under the same name of "Bebas Neue".  
 Please read more information below.  
 
@@ -66,7 +66,7 @@ In v2.000, some glyphs were newly added, some glyphs were improved, some spacing
 
 
 ## "Bebas Neue Family(2014)" vs "Bebas Neue v2.000(2018)"
-As mentioned above, Bebas Neue Family (2014) were designed by [Font fabric](http://www.fontfabric.com/bebas-neue/) and they made a big contribution to the world use. I appreciate Svet and Fontfabric team very much.  
+As mentioned above, Bebas Neue Family (2014) were designed by Font fabric and they made a big contribution to the world use. I appreciate Svet and Fontfabric team very much.  
 "Bebas Neue Family (2014)" was designed based on the "Bebas Neue version 1.xxx (2010)". Therefore, some part of the design, character set, style name and some setting between the Family (2014) and version 2.000 (2018) are slightly different.  
 
 When you use these fonts together, please be carefull.  
