@@ -50,7 +50,7 @@ Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](h
 
 * [Bebas (2005) — Free font](https://www.dafont.com/bebas.font)  
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
-Originally released in 2005. *Development was terminated.*  
+Originally released in 2005. ~~*Development was terminated.*~~ version1.1(2019)
 
 ## Why
 Bebas Neue version 2.000 (2018) is open sourced and licensed under SIL Open Font License1.1.  
