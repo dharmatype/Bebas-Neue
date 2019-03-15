@@ -1,6 +1,6 @@
 # Bebas Neue
 
-![/documentation/img/BebasNeuePro-001.png](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)
+[![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeuePro-001.png)](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)
 
 ## A display font
 Bebas Neue is a display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](https://dharmatype.com).   
