@@ -9,7 +9,7 @@ http://bebasneue.com
 
 ## History
 * [Bebas Neue Pro (2019)  – Commercial font](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)  
-Bebas Neue Pro is a premium font family with 10 styles including lowercase and *Italic* based on Bebas Neue version 2.000 (2018) . Available from [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype).
+Bebas Neue Pro is a premium font family with 10 styles including lowercase and *Italic* based on Bebas Neue version 2.000 (2018) . Available from [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype) and [Adobe Fonts](https://fonts.adobe.com/fonts/bebas-neue-pro) .
 
 * [Bebas Neue Rounded (2018) — Commercial font](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/?refby=dharmatype)  
 Bebas Neue Rounded is rounded derivative work based on Bebas Neue (2018)  
