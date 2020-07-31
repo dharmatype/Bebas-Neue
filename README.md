@@ -73,6 +73,23 @@ When you use these fonts together, please be carefull.
 They have same "Family Name", but they are not same fonts.  
 Please contact to Font fabric when you need to talk about "Bebas Neue Family (2014)"
 
+
+## License
+Bebas Neue version 2.000 (2018)  is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
+To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Bebas-Neue/blob/master/OFL.txt)
+
+
+## Authors
+[Ryoichi Tsunekawa](https://dharmatype.com)  
+
+
+## Images of version2.000
+![/documentation/img/BebasNeue_001.png](/documentation/img/BebasNeue_001.png)|![/documentation/img/BebasNeue_002.png](/documentation/img/BebasNeue_002.png)|![/documentation/img/BebasNeue_008.png](/documentation/img/BebasNeue_008.png)
+----|---- |----
+![/documentation/img/BebasNeue_005.png](/documentation/img/BebasNeue_005.png)|![/documentation/img/BebasNeue_006.png](/documentation/img/BebasNeue_006.png)|![/documentation/img/BebasNeue_003.png](/documentation/img/BebasNeue_003.png)
+![/documentation/img/BebasNeue_007.png](/documentation/img/BebasNeue_007.png)|![/documentation/img/BebasNeue_009.png](/documentation/img/BebasNeue_009.png)|![/documentation/img/BebasNeue_004.png](/documentation/img/BebasNeue_004.png)
+
+
 ## About Bebas Neue Pro  
 Thank you for waiting.
 In 2019, we released Bebas Neue *Pro* with lowercases!  
@@ -95,16 +112,6 @@ Bebas Neue "Pro" can extend your possibilities.
 Be the first to use this professional and premium Bebas Neue!   
 You can purchase this family from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype) and [Adobe Fonts](https://fonts.adobe.com/fonts/bebas-neue-pro) .   
 
-
-## License
-Bebas Neue version 2.000 (2018)  is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
-To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Bebas-Neue/blob/master/OFL.txt)
-
-
-## Authors
-[Ryoichi Tsunekawa](https://dharmatype.com)  
-
-
 ## Images of Bebas Neue Pro
 ![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeuePro-001.png)|![/documentation/img/BebasNeuePro-002.png](/documentation/img/BebasNeuePro-002.png)|![/documentation/img/BebasNeuePro-008.png](/documentation/img/BebasNeuePro-008.png)
 ----|---- |----
@@ -112,9 +119,3 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 ![/documentation/img/BebasNeuePro-007.png](/documentation/img/BebasNeuePro-007.png)|![/documentation/img/BebasNeuePro-009.png](/documentation/img/BebasNeuePro-009.png)|![/documentation/img/BebasNeuePro-004.png](/documentation/img/BebasNeuePro-004.png)
 ![/documentation/img/BebasNeuePro-010.png](/documentation/img/BebasNeuePro-010.png)|![/documentation/img/BebasNeuePro-011.png](/documentation/img/BebasNeuePro-011.png)|![/documentation/img/BebasNeuePro-012.png](/documentation/img/BebasNeuePro-012.png)
 ![/documentation/img/BebasNeuePro-013.png](/documentation/img/BebasNeuePro-013.png)||
-
-## Images of version2.000
-![/documentation/img/BebasNeue_001.png](/documentation/img/BebasNeue_001.png)|![/documentation/img/BebasNeue_002.png](/documentation/img/BebasNeue_002.png)|![/documentation/img/BebasNeue_008.png](/documentation/img/BebasNeue_008.png)
-----|---- |----
-![/documentation/img/BebasNeue_005.png](/documentation/img/BebasNeue_005.png)|![/documentation/img/BebasNeue_006.png](/documentation/img/BebasNeue_006.png)|![/documentation/img/BebasNeue_003.png](/documentation/img/BebasNeue_003.png)
-![/documentation/img/BebasNeue_007.png](/documentation/img/BebasNeue_007.png)|![/documentation/img/BebasNeue_009.png](/documentation/img/BebasNeue_009.png)|![/documentation/img/BebasNeue_004.png](/documentation/img/BebasNeue_004.png)
