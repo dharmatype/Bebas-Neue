@@ -105,12 +105,6 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 [Ryoichi Tsunekawa](https://dharmatype.com)  
 
 
-## Support
-Please support our free font project.
-Our free fonts are free even for commercial use. You can use them without any purchases.
-But we welcome your support for free font project. Please visit [https://dharmatype.com/support](https://dharmatype.com/support)  
-
-
 ## Images of Bebas Neue Pro
 ![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeuePro-001.png)|![/documentation/img/BebasNeuePro-002.png](/documentation/img/BebasNeuePro-002.png)|![/documentation/img/BebasNeuePro-008.png](/documentation/img/BebasNeuePro-008.png)
 ----|---- |----
