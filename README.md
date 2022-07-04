@@ -1,6 +1,6 @@
 # Bebas Neue
 
-[![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeue_001.png)](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)
+[![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeue_001.png)](https://www.myfonts.com/collections/bebas-neue-pro-font-dharma-type/?rfsn=6624826.7184ad)
 
 ## A display font
 Bebas Neue is a display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](https://dharmatype.com).   
@@ -12,18 +12,18 @@ http://bebasneue.com
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. ~~*Development was terminated.*~~ version1.1(2019)
 
-* [Boycott (2006) — Commercial font](https://www.myfonts.com/fonts/flat-it/boycott/?refby=dharmatype)   
+* [Boycott (2006) — Commercial font](https://www.myfonts.com/collections/boycott-font-dharma-type/?rfsn=6624826.7184ad)   
 Boycott is distressed font designed based on Bebas(2005).  
-Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/boycott/?refby=dharmatype).  
+Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/collections/boycott-font-dharma-type/?rfsn=6624826.7184ad).  
 
 * [Bebas Neue version 1.xxx (2010) — Free font](https://github.com/dharmatype/Bebas-Neue)  
 Bebas Neue was re-designed from Bebas (2005) font for the same purpose. First released in 2010.  
 Bebas Neue have same proportion and theory as original Bebas (2005) font.  
 Licensed under the SIL Open Font License v1.1.  
 
-* [Mocha Mattari (2011) — Commercial font](https://www.myfonts.com/fonts/flat-it/mocha-mattari/?refby=dharmatype)  
+* [Mocha Mattari (2011) — Commercial font](https://www.myfonts.com/collections/mocha-mattari-font-dharma-type/?rfsn=6624826.7184ad)  
 Mocha Mattari is distressed font designed based on Bebas Neue (2010)  
-Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/mocha-mattari/?refby=dharmatype)  .
+Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/collections/mocha-mattari-font-dharma-type/?rfsn=6624826.7184ad)  .
 
 * Bebas Neue Family (2014) — Free font  
 Fontfabric designed additional weights and glyphs which included in this repository.  
@@ -41,16 +41,16 @@ From version 2.000, Bebas Neue has become open source font.
 In this repository, you can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)  
 Licensed under the SIL Open Font License v1.1.  
 
-* [Bebas Neue SemiRounded (2018) — Commercial font](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/?refby=dharmatype)  
+* [Bebas Neue SemiRounded (2018) — Commercial font](https://www.myfonts.com/collections/bebas-neue-semi-rounded-font-dharma-type/?rfsn=6624826.7184ad)  
 Bebas Neue SemiRounded is semi-rounded derivative work based on Bebas Neue (2018)  
-Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/?refby=dharmatype) and [Patreon](https://www.patreon.com/dharmatype).  
+Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/collections/bebas-neue-semi-rounded-font-dharma-type/?rfsn=6624826.7184ad) and [Patreon](https://www.patreon.com/dharmatype).  
 
-* [Bebas Neue Rounded (2018) — Commercial font](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/?refby=dharmatype)  
+* [Bebas Neue Rounded (2018) — Commercial font](https://www.myfonts.com/collections/bebas-neue-rounded-font-dharma-type/?rfsn=6624826.7184ad)  
 Bebas Neue Rounded is rounded derivative work based on Bebas Neue (2018)  
-Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/?refby=dharmatype) and [Patreon](https://www.patreon.com/dharmatype).  
+Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/collections/bebas-neue-rounded-font-dharma-type/?rfsn=6624826.7184ad) and [Patreon](https://www.patreon.com/dharmatype).  
 
-* [Bebas Neue Pro (2019)  – Commercial font](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)  
-Bebas Neue Pro is a premium font family with 10 styles including lowercase and *Italic* based on Bebas Neue version 2.000 (2018) . Available from [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype) and [Adobe Fonts](https://fonts.adobe.com/fonts/bebas-neue-pro) .
+* [Bebas Neue Pro (2019)  – Commercial font](https://www.myfonts.com/collections/bebas-neue-pro-font-dharma-type/?rfsn=6624826.7184ad)  
+Bebas Neue Pro is a premium font family with 10 styles including lowercase and *Italic* based on Bebas Neue version 2.000 (2018) . Available from [Myfonts](https://www.myfonts.com/collections/bebas-neue-pro-font-dharma-type/?rfsn=6624826.7184ad) and [Adobe Fonts](https://fonts.adobe.com/fonts/bebas-neue-pro) .
 
 ## Why
 Bebas Neue version 2.000 (2018) is open sourced and licensed under SIL Open Font License1.1.  
@@ -110,7 +110,7 @@ Please don't use sloped Bebas Neue. Pro has proper Italics!
 
 Bebas Neue "Pro" can extend your possibilities.   
 Be the first to use this professional and premium Bebas Neue!   
-You can purchase this family from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype) and [Adobe Fonts](https://fonts.adobe.com/fonts/bebas-neue-pro) .   
+You can purchase this family from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/collections/bebas-neue-pro-font-dharma-type/?rfsn=6624826.7184ad) and [Adobe Fonts](https://fonts.adobe.com/fonts/bebas-neue-pro) .   
 
 ## Images of Bebas Neue Pro
 ![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeuePro-001.png)|![/documentation/img/BebasNeuePro-002.png](/documentation/img/BebasNeuePro-002.png)|![/documentation/img/BebasNeuePro-008.png](/documentation/img/BebasNeuePro-008.png)
